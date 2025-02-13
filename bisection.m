@@ -1,6 +1,7 @@
-%Metode Bisection
+%Bisection Method
 %Zulfikar Ali Ibadurrahman
 %12918030
+%Longshore Currents: (0.49*(10^(1/2))*(a^(1/2)))-8
 
 Vm=4;
 g=10;
